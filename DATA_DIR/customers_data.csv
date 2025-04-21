@@ -1,0 +1,8 @@
+CustomerID,CustomerName,CustomerEmail,CustomerLocation
+101,John Doe,john.doe@example.com,New York
+102,Jane Smith,jane.smith@example.com,Los Angeles
+103,Michael Johnson,michael.johnson@example.com,Chicago
+104,Emily Davis,emily.davis@example.com,Houston
+105,David Wilson,david.wilson@example.com,Phoenix
+106,Mile Davis,mile.davis@example.com,Las Vegas
+106,Mile Davis,davis.miles@example.com,Boston

@@ -1,0 +1,25 @@
+Date,ProductID,ProductName,QuantitySold,Price,Category,CustomerID
+2023-02-01,9,Gadget I,10,10.0,Gadgets,102
+2023-02-02,10,Gizmo J,3,11.0,Gizmos,103
+2023-02-03,1,Widget A,6,2.5,Gadgets,104
+2023-02-04,2,Gadget B,9,3.0,Gadgets,105
+2023-02-05,3,Widget C,8,4.0,Widgets,101
+2023-02-06,4,Gizmo D,6,5.0,Gizmos,102
+2023-02-07,5,Widget E,7,6.0,Widgets,103
+2023-02-08,6,Gadget F,5,7.0,Gadgets,104
+2023-02-09,7,Gizmo G,2,8.0,Gizmos,105
+2023-02-10,8,Widget H,11,9.0,Widgets,101
+2023-02-11,9,Gadget I,8,10.0,Gadgets,102
+2023-02-12,10,Gizmo J,4,11.0,Gizmos,103
+2023-02-13,1,Widget A,7,2.5,Gadgets,104
+2023-02-14,2,Gadget B,6,3.0,Gadgets,105
+2023-02-15,3,Widget C,9,4.0,Widgets,101
+2023-02-16,4,Gizmo D,7,5.0,Gizmos,102
+2023-02-17,5,Widget E,10,6.0,Widgets,103
+2023-02-18,6,Gadget F,4,7.0,Gadgets,104
+2023-02-19,7,Gizmo G,1,8.0,Gizmos,105
+2023-02-20,8,Widget H,13,9.0,Widgets,101
+2023-02-21,9,Gadget I,9,10.0,Gadgets,102
+2023-02-22,10,Gizmo J,5,11.0,Gizmos,103
+2025-03-02,11,Widget Z,5,10.0,Widgets,106
+2025-03-02,11,Gadget Z,5,10.0,Gadgets,106

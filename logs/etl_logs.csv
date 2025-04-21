@@ -1,0 +1,91 @@
+2025-04-21 16:47:45,INFO,Initializing the ETL...
+
+2025-04-21 16:47:45,INFO,5 records inserted successfully!
+2025-04-21 16:47:45,INFO,Customers pipeline (Staging) finished!
+2025-04-21 16:47:45,INFO,22 records inserted successfully!
+2025-04-21 16:47:45,INFO,Sales pipeline (Staging) finished!
+
+2025-04-21 16:47:45,INFO,Upsert task completed
+2025-04-21 16:47:45,INFO,5 records inserted!
+2025-04-21 16:47:45,INFO,0 records updated!
+2025-04-21 16:47:45,INFO,DimCustomers pipeline (Data Warehouse) finished!
+
+2025-04-21 16:47:45,INFO,Upsert task completed
+2025-04-21 16:47:45,INFO,22 records inserted!
+2025-04-21 16:47:45,INFO,0 records updated!
+2025-04-21 16:47:45,INFO,FactSales pipeline (Data Warehouse) finished!
+
+2025-04-21 16:47:45,INFO,ETL finished successfully!
+
+2025-04-21 16:48:03,INFO,Initializing the ETL...
+
+2025-04-21 16:48:03,INFO,1 records inserted successfully!
+2025-04-21 16:48:03,INFO,Customers pipeline (Staging) finished!
+2025-04-21 16:48:03,INFO,Sales pipeline (Staging) finished!
+
+2025-04-21 16:48:03,INFO,Upsert task completed
+2025-04-21 16:48:03,INFO,1 records inserted!
+2025-04-21 16:48:03,INFO,0 records updated!
+2025-04-21 16:48:03,INFO,DimCustomers pipeline (Data Warehouse) finished!
+
+2025-04-21 16:48:04,INFO,Upsert task completed
+2025-04-21 16:48:04,INFO,0 records inserted!
+2025-04-21 16:48:04,INFO,0 records updated!
+2025-04-21 16:48:04,INFO,FactSales pipeline (Data Warehouse) finished!
+
+2025-04-21 16:48:04,INFO,ETL finished successfully!
+
+2025-04-21 16:48:43,INFO,Initializing the ETL...
+
+2025-04-21 16:48:43,INFO,1 records inserted successfully!
+2025-04-21 16:48:43,INFO,Customers pipeline (Staging) finished!
+2025-04-21 16:48:43,INFO,Sales pipeline (Staging) finished!
+
+2025-04-21 16:48:43,INFO,Upsert task completed
+2025-04-21 16:48:43,INFO,1 records inserted!
+2025-04-21 16:48:43,INFO,1 records updated!
+2025-04-21 16:48:43,INFO,DimCustomers pipeline (Data Warehouse) finished!
+
+2025-04-21 16:48:43,INFO,Upsert task completed
+2025-04-21 16:48:43,INFO,0 records inserted!
+2025-04-21 16:48:43,INFO,0 records updated!
+2025-04-21 16:48:43,INFO,FactSales pipeline (Data Warehouse) finished!
+
+2025-04-21 16:48:43,INFO,ETL finished successfully!
+
+2025-04-21 16:49:23,INFO,Initializing the ETL...
+
+2025-04-21 16:49:23,INFO,Customers pipeline (Staging) finished!
+2025-04-21 16:49:23,INFO,1 records inserted successfully!
+2025-04-21 16:49:23,INFO,Sales pipeline (Staging) finished!
+
+2025-04-21 16:49:23,INFO,Upsert task completed
+2025-04-21 16:49:23,INFO,2 records inserted!
+2025-04-21 16:49:23,INFO,1 records updated!
+2025-04-21 16:49:23,INFO,DimCustomers pipeline (Data Warehouse) finished!
+
+2025-04-21 16:49:23,INFO,Upsert task completed
+2025-04-21 16:49:23,INFO,1 records inserted!
+2025-04-21 16:49:23,INFO,0 records updated!
+2025-04-21 16:49:23,INFO,FactSales pipeline (Data Warehouse) finished!
+
+2025-04-21 16:49:23,INFO,ETL finished successfully!
+
+2025-04-21 16:49:54,INFO,Initializing the ETL...
+
+2025-04-21 16:49:54,INFO,Customers pipeline (Staging) finished!
+2025-04-21 16:49:54,INFO,1 records inserted successfully!
+2025-04-21 16:49:54,INFO,Sales pipeline (Staging) finished!
+
+2025-04-21 16:49:54,INFO,Upsert task completed
+2025-04-21 16:49:54,INFO,4 records inserted!
+2025-04-21 16:49:54,INFO,2 records updated!
+2025-04-21 16:49:54,INFO,DimCustomers pipeline (Data Warehouse) finished!
+
+2025-04-21 16:49:54,INFO,Upsert task completed
+2025-04-21 16:49:54,INFO,2 records inserted!
+2025-04-21 16:49:54,INFO,1 records updated!
+2025-04-21 16:49:54,INFO,FactSales pipeline (Data Warehouse) finished!
+
+2025-04-21 16:49:54,INFO,ETL finished successfully!
+
